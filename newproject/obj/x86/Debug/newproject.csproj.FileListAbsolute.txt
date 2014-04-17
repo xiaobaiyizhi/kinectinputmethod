@@ -1,0 +1,553 @@
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\MainWindow.baml
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\UserControl1.baml
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\MainWindow.g.cs
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\UserControl1.g.cs
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\App.g.cs
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\newproject.g.resources
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\桌面\c#\newproject\newproject\bin\Debug\newproject.exe
+F:\桌面\c#\newproject\newproject\bin\Debug\newproject.pdb
+F:\桌面\c#\newproject\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+F:\桌面\c#\newproject\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+F:\桌面\c#\newproject\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\newproject.exe
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\newproject.pdb
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\桌面\c#\newproject\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\Administrator\Desktop\newproject\newproject\obj\x86\Debug\newproject.exe
+C:\Users\Administrator\Desktop\newproject\newproject\obj\x86\Debug\newproject.pdb
+C:\Users\Administrator\Desktop\newproject\newproject\bin\Debug\newproject.exe.config
+C:\Users\Administrator\Desktop\newproject\newproject\bin\Debug\newproject.exe
+C:\Users\Administrator\Desktop\newproject\newproject\bin\Debug\newproject.pdb
+C:\Users\Administrator\Desktop\newproject\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\newproject\newproject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\newproject\newproject\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\newproject\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+C:\Users\Administrator\Desktop\newproject\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\Administrator\Desktop\newproject\newproject\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\newproject\newproject\obj\x86\Debug\newproject.g.resources
+C:\Users\Administrator\Desktop\newproject\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\newproject\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\newproject\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\bin\Debug\newproject.exe.config
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\bin\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\bin\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\bin\Debug\TrackingHand.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\UserControl1.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\UserControl1.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\App.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\MainWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\newproject.g.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\bin\Debug\Microsoft.Kinect.Toolkit2.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\bin\Debug\Microsoft.Kinect.Toolkit2.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\MiniWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject\newproject\obj\x86\Debug\MiniWindow.g.cs
+C:\Users\Administrator\Desktop\newproject\newproject\obj\x86\Debug\MiniWindow.baml
+C:\Users\Administrator\Desktop\newproject\newproject\obj\x86\Debug\MiniWindow.g.cs
+C:\Users\Administrator\Desktop\newproject\newproject\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\bin\Debug\newproject.exe.config
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\obj\x86\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\obj\x86\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\bin\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\bin\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\bin\Debug\TrackingHand.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\obj\x86\Debug\MiniWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\obj\x86\Debug\MiniWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\obj\x86\Debug\App.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\obj\x86\Debug\MainWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\obj\x86\Debug\newproject.g.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\bin\Debug\newproject.exe.config
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\obj\x86\Debug\newproject.exe
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\obj\x86\Debug\newproject.pdb
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\bin\Debug\newproject.exe
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\bin\Debug\newproject.pdb
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\bin\Debug\IACore.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\bin\Debug\IALoader.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\bin\Debug\IAWinFX.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\bin\Debug\TrackingHand.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\obj\x86\Debug\MiniWindow.baml
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\obj\x86\Debug\MiniWindow.g.cs
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\obj\x86\Debug\newproject.g.resources
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\newproject(阶段版)\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\bin\Debug\newproject.exe.config
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\bin\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\bin\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\bin\Debug\TrackingHand.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\obj\x86\Debug\MiniWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\obj\x86\Debug\MiniWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\obj\x86\Debug\App.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\obj\x86\Debug\MainWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\obj\x86\Debug\newproject.g.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\obj\x86\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\newproject(阶段版)2\newproject\obj\x86\Debug\newproject.pdb
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\bin\Debug\newproject.exe.config
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\obj\x86\Debug\newproject.exe
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\obj\x86\Debug\newproject.pdb
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\bin\Debug\newproject.exe
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\bin\Debug\newproject.pdb
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\bin\Debug\IACore.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\bin\Debug\IALoader.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\bin\Debug\IAWinFX.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\bin\Debug\TrackingHand.dll
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\obj\x86\Debug\MiniWindow.baml
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\obj\x86\Debug\MiniWindow.g.cs
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\obj\x86\Debug\newproject.g.resources
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\newproject(阶段版)2\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\bin\Debug\newproject.exe.config
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\obj\x86\Debug\newproject.exe
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\obj\x86\Debug\newproject.pdb
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\bin\Debug\newproject.exe
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\bin\Debug\newproject.pdb
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\bin\Debug\IACore.dll
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\bin\Debug\IALoader.dll
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\bin\Debug\IAWinFX.dll
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\bin\Debug\TrackingHand.dll
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\obj\x86\Debug\MiniWindow.baml
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\obj\x86\Debug\MiniWindow.g.cs
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\obj\x86\Debug\newproject.g.resources
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\newproject(中期审查)\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\bin\Debug\newproject.exe.config
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\obj\x86\Debug\newproject.exe
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\obj\x86\Debug\newproject.pdb
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\bin\Debug\newproject.exe
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\bin\Debug\newproject.pdb
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\bin\Debug\IACore.dll
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\bin\Debug\IALoader.dll
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\bin\Debug\IAWinFX.dll
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\bin\Debug\TrackingHand.dll
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\obj\x86\Debug\MiniWindow.baml
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\obj\x86\Debug\MiniWindow.g.cs
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\obj\x86\Debug\newproject.g.resources
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\newproject(中期审查) - 改进识别器\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\bin\Debug\newproject.exe.config
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\obj\x86\Debug\newproject.exe
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\obj\x86\Debug\newproject.pdb
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\obj\x86\Debug\MiniWindow.baml
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\obj\x86\Debug\MainWindow.g.cs
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\obj\x86\Debug\MiniWindow.g.cs
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\obj\x86\Debug\App.g.cs
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\bin\Debug\newproject.exe
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\bin\Debug\newproject.pdb
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\bin\Debug\BLL.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\bin\Debug\Models.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\bin\Debug\BLL.pdb
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\bin\Debug\Models.pdb
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\obj\x86\Debug\MainWindow.baml
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\obj\x86\Debug\newproject.g.resources
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\bin\Debug\DAL.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\newproject\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\newproject.exe.config
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\ButtonWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\MiniWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\WheelWindows.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\ButtonWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\MiniWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\WheelWindows.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\App.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\MainWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\newproject.g.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\newproject.pdb
+E:\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\newproject.exe.config
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\newproject.exe
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\newproject.pdb
+E:\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\newproject.exe
+E:\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\newproject.pdb
+E:\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\BLL.dll
+E:\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\Models.dll
+E:\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\DAL.dll
+E:\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\BLL.pdb
+E:\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\Models.pdb
+E:\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\KinectInputMethod\KinectInputMethod\newproject\bin\Debug\DAL.pdb
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\ButtonWindow.baml
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\MiniWindow.baml
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\WheelWindows.baml
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\ButtonWindow.g.cs
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\MainWindow.g.cs
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\MiniWindow.g.cs
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\WheelWindows.g.cs
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\App.g.cs
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\MainWindow.baml
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\newproject.g.resources
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\KinectInputMethod\KinectInputMethod\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\newproject.exe.config
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\TrackingHand.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\ButtonWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\MiniWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\WheelWindows.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\ButtonWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\MiniWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\WheelWindows.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\App.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\MainWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\newproject.g.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\newproject.exe.config
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\newproject.exe
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\newproject.pdb
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\newproject.exe
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\newproject.pdb
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\BLL.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\IACore.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\IALoader.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\IAWinFX.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\Magnifier.exe
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\Microsoft.Ink.Analysis.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\Models.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\TrackingHand.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\DAL.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\BLL.pdb
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\Models.pdb
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\Magnifier.pdb
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\bin\Debug\DAL.pdb
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\ButtonWindow.baml
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\MiniWindow.baml
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\WheelWindows.baml
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\ButtonWindow.g.cs
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\MainWindow.g.cs
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\MiniWindow.g.cs
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\WheelWindows.g.cs
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\App.g.cs
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\MainWindow.baml
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\newproject.g.resources
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\newproject.exe.config
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\Magnifier.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\Magnifier.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\ButtonWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\MiniWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\WheelWindows.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\ButtonWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\MiniWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\WheelWindows.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\App.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\MainWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\newproject.g.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\KinectInputMethod\newproject\bin\Debug\newproject.exe.config
+F:\KinectInputMethod\newproject\obj\x86\Debug\newproject.exe
+F:\KinectInputMethod\newproject\obj\x86\Debug\newproject.pdb
+F:\KinectInputMethod\newproject\bin\Debug\newproject.exe
+F:\KinectInputMethod\newproject\bin\Debug\newproject.pdb
+F:\KinectInputMethod\newproject\bin\Debug\BLL.dll
+F:\KinectInputMethod\newproject\bin\Debug\Magnifier.exe
+F:\KinectInputMethod\newproject\bin\Debug\Models.dll
+F:\KinectInputMethod\newproject\bin\Debug\DAL.dll
+F:\KinectInputMethod\newproject\bin\Debug\BLL.pdb
+F:\KinectInputMethod\newproject\bin\Debug\Models.pdb
+F:\KinectInputMethod\newproject\bin\Debug\Magnifier.pdb
+F:\KinectInputMethod\newproject\bin\Debug\DAL.pdb
+F:\KinectInputMethod\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\KinectInputMethod\newproject\obj\x86\Debug\ButtonWindow.baml
+F:\KinectInputMethod\newproject\obj\x86\Debug\MiniWindow.baml
+F:\KinectInputMethod\newproject\obj\x86\Debug\WheelWindows.baml
+F:\KinectInputMethod\newproject\obj\x86\Debug\ButtonWindow.g.cs
+F:\KinectInputMethod\newproject\obj\x86\Debug\MainWindow.g.cs
+F:\KinectInputMethod\newproject\obj\x86\Debug\MiniWindow.g.cs
+F:\KinectInputMethod\newproject\obj\x86\Debug\WheelWindows.g.cs
+F:\KinectInputMethod\newproject\obj\x86\Debug\App.g.cs
+F:\KinectInputMethod\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+F:\KinectInputMethod\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+F:\KinectInputMethod\newproject\obj\x86\Debug\MainWindow.baml
+F:\KinectInputMethod\newproject\obj\x86\Debug\newproject.g.resources
+F:\KinectInputMethod\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+F:\KinectInputMethod\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\KinectInputMethod\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\KinectInputMethod\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+F:\KinectInputMethod\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\newproject.exe.config
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\Magnifier.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\TrackingHand.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\Magnifier.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\ButtonWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\MiniWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\WheelWindows.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\ButtonWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\MiniWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\WheelWindows.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\App.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\MainWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\newproject.g.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\newproject.exe.config
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\obj\x86\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\obj\x86\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\obj\x86\Debug\MiniWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\obj\x86\Debug\MiniWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\obj\x86\Debug\App.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\Magnifier.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\TrackingHand.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\Magnifier.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\obj\x86\Debug\MainWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\obj\x86\Debug\newproject.g.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\newproject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\newproject.exe.config
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\obj\x86\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\obj\x86\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\newproject.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\newproject.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\Magnifier.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\Microsoft.Ink.Analysis.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\TrackingHand.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\Magnifier.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\obj\x86\Debug\MiniWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\obj\x86\Debug\MiniWindow.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\obj\x86\Debug\App.g.cs
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\obj\x86\Debug\newproject_MarkupCompile.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\obj\x86\Debug\newproject_MarkupCompile.lref
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\obj\x86\Debug\MainWindow.baml
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\obj\x86\Debug\newproject.g.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\obj\x86\Debug\newproject.Properties.Resources.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\newproject\obj\x86\Debug\GenerateResource.write.1.tlog

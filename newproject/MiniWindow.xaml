@@ -1,0 +1,23 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="newproject.MiniWindow"
+        Title="MiniWindow" Height="768" Width="1366" WindowStyle="None" AllowsTransparency="True" Background="#003894E7" Foreground="#FF3894E7" BorderBrush="#FF3894E7" HorizontalAlignment="Left" VerticalAlignment="Top" Closing="Window_Closing">
+    <Grid Width="300" HorizontalAlignment="Right">
+
+        <k:KinectRegion x:Name="kinectRegion1" d:LayoutOverrides="Height, GridBox" Margin="0,40,0,0" HorizontalAlignment="Right" Width="120" MouseEnter="kinectRegion1_MouseEnter" MouseLeave="kinectRegion1_MouseLeave">
+            <StackPanel Width="120">
+        		<k:KinectUserViewer x:Name="UserViewer"   HorizontalAlignment="Center" k:KinectRegion.KinectRegion="{Binding ElementName=kinectRegion1}" Height="120"/>
+        		<k:KinectTileButton Content="文字输入" Height="114" HorizontalAlignment="Center" Width="Auto" Click="buttom_Click" Foreground="White" FontSize="24" FontWeight="Bold" Background="Black"/>
+        		<k:KinectTileButton Content="悬停·按压" Margin="0" Width="Auto" Height="120" Foreground="White" FontSize="24" FontWeight="Bold" Background="#FF58D614" Click="KinectTileButton_Click" />
+        		<k:KinectTileButton Content="放大镜" Margin="0" Width="Auto" Height="120" Foreground="White" FontSize="24" FontWeight="Bold" Background="#FF815BED"/>
+        		<k:KinectTileButton Content="上翻" Margin="0" Width="Auto" Height="120" Foreground="White" FontSize="24" FontWeight="Bold" VerticalAlignment="Top" Background="#FF4896DE" Click="upbuttom_Click" MouseEnter="upbuttom_MouseEnter" MouseLeave="upbuttom_MouseLeave" />
+        		<k:KinectTileButton Content="下翻" Margin="0" Width="Auto" Height="120" Foreground="White" FontSize="24" FontWeight="Bold" Background="#FFEB4A7E" MouseLeave="downbuttom_MouseLeave" MouseEnter="downbuttom_MouseEnter" Click="downbuttom_Click" />
+        	</StackPanel>
+        </k:KinectRegion>
+        <TextBox Height="56" HorizontalAlignment="Left" Margin="0,35.5,0,0" x:Name="textBox1" VerticalAlignment="Top" Width="180" FontSize="26" />
+        <TextBox Height="60" Margin="0,101.5,0,0" x:Name="textBox2" VerticalAlignment="Top" FontSize="26" Text="" HorizontalAlignment="Left" Width="180" d:LayoutOverrides="HorizontalAlignment" />
+        <TextBox FontSize="26" Margin="0,175,0,0" x:Name="textBox3" Text="" Height="60" VerticalAlignment="Top" HorizontalAlignment="Left" Width="180" d:LayoutOverrides="HorizontalAlignment" />
+    </Grid>
+</Window>

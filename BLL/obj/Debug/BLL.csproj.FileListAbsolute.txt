@@ -1,0 +1,112 @@
+D:\C#\kinect\输入法三层架构\KinectInputMethod\BLL\bin\Debug\BLL.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\BLL\bin\Debug\BLL.pdb
+D:\C#\kinect\输入法三层架构\KinectInputMethod\BLL\bin\Debug\DAL.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\BLL\bin\Debug\Models.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\BLL\bin\Debug\DAL.pdb
+D:\C#\kinect\输入法三层架构\KinectInputMethod\BLL\bin\Debug\Models.pdb
+D:\C#\kinect\输入法三层架构\KinectInputMethod\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\kinect\输入法三层架构\KinectInputMethod\BLL\obj\Debug\BLL.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\BLL\obj\Debug\BLL.pdb
+D:\C#\kinect\输入法三层架构\KinectInputMethod\BLL\bin\Debug\IAWinFX.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\BLL\bin\Debug\IACore.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\BLL\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\BLL\obj\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\BLL\obj\Debug\BLL.pdb
+E:\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\BLL.dll
+E:\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\BLL.pdb
+E:\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\DAL.dll
+E:\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\Models.dll
+E:\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\IAWinFX.dll
+E:\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\IACore.dll
+E:\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\IALoader.dll
+E:\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\DAL.pdb
+E:\KinectInputMethod\KinectInputMethod\BLL\bin\Debug\Models.pdb
+E:\KinectInputMethod\KinectInputMethod\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\KinectInputMethod\KinectInputMethod\BLL\obj\Debug\BLL.dll
+E:\KinectInputMethod\KinectInputMethod\BLL\obj\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\BLL\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\BLL\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\BLL\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\BLL\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\BLL\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\BLL\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\BLL\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\BLL\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\BLL\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\BLL\obj\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\BLL\obj\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\BLL\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\BLL\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\BLL\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\BLL\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\BLL\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\BLL\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\BLL\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\BLL\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\BLL\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\BLL\obj\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\BLL\obj\Debug\BLL.pdb
+F:\KinectInputMethod\BLL\bin\Debug\BLL.dll
+F:\KinectInputMethod\BLL\bin\Debug\BLL.pdb
+F:\KinectInputMethod\BLL\bin\Debug\DAL.dll
+F:\KinectInputMethod\BLL\bin\Debug\Models.dll
+F:\KinectInputMethod\BLL\bin\Debug\IAWinFX.dll
+F:\KinectInputMethod\BLL\bin\Debug\IACore.dll
+F:\KinectInputMethod\BLL\bin\Debug\IALoader.dll
+F:\KinectInputMethod\BLL\bin\Debug\Models.pdb
+F:\KinectInputMethod\BLL\bin\Debug\DAL.pdb
+F:\KinectInputMethod\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\KinectInputMethod\BLL\obj\Debug\BLL.dll
+F:\KinectInputMethod\BLL\obj\Debug\BLL.pdb
+F:\KinectInputMethod\BLL\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\BLL\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\BLL\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\BLL\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\BLL\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\BLL\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\BLL\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\BLL\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\BLL\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\BLL\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\BLL\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\BLL\obj\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\BLL\obj\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\BLL\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\BLL\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\BLL\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\BLL\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\BLL\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\BLL\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\BLL\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\BLL\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\BLL\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\BLL\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\BLL\obj\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\BLL\obj\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\BLL\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\BLL\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\BLL\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\BLL\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\BLL\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\BLL\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\BLL\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\BLL\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\BLL\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\BLL\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\BLL\obj\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\BLL\obj\Debug\BLL.pdb

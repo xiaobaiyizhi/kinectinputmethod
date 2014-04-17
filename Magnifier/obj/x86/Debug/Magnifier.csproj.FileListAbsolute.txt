@@ -1,0 +1,103 @@
+D:\C#\Magnifier\Magnifier\bin\Debug\Magnifier.exe
+D:\C#\Magnifier\Magnifier\bin\Debug\Magnifier.pdb
+D:\C#\Magnifier\Magnifier\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\Magnifier\Magnifier\obj\x86\Debug\Magnifier.Properties.Resources.resources
+D:\C#\Magnifier\Magnifier\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\Magnifier\Magnifier\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\Magnifier\Magnifier\obj\x86\Debug\Magnifier.exe
+D:\C#\Magnifier\Magnifier\obj\x86\Debug\Magnifier.pdb
+C:\Users\Administrator\Desktop\Magnifier\Magnifier\obj\x86\Debug\Magnifier.exe
+C:\Users\Administrator\Desktop\Magnifier\Magnifier\obj\x86\Debug\Magnifier.pdb
+C:\Users\Administrator\Desktop\Magnifier\Magnifier\bin\Debug\Magnifier.exe
+C:\Users\Administrator\Desktop\Magnifier\Magnifier\bin\Debug\Magnifier.pdb
+C:\Users\Administrator\Desktop\Magnifier\Magnifier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Magnifier\Magnifier\obj\x86\Debug\Magnifier.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Magnifier\Magnifier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Magnifier\Magnifier\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\bin\Debug\Magnifier.exe
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\bin\Debug\Magnifier.pdb
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\obj\x86\Debug\Magnifier.Properties.Resources.resources
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\obj\x86\Debug\Magnifier.exe
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\obj\x86\Debug\Magnifier.pdb
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\bin\Debug\BLL.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\bin\Debug\DAL.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\bin\Debug\IAWinFX.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\bin\Debug\IACore.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\bin\Debug\IALoader.dll
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\bin\Debug\BLL.pdb
+D:\KinectInputMethod(2) - 副本\KinectInputMethod\Magnifier\bin\Debug\DAL.pdb
+F:\KinectInputMethod\Magnifier\bin\Debug\Magnifier.exe
+F:\KinectInputMethod\Magnifier\bin\Debug\Magnifier.pdb
+F:\KinectInputMethod\Magnifier\bin\Debug\BLL.dll
+F:\KinectInputMethod\Magnifier\bin\Debug\DAL.dll
+F:\KinectInputMethod\Magnifier\bin\Debug\IAWinFX.dll
+F:\KinectInputMethod\Magnifier\bin\Debug\IACore.dll
+F:\KinectInputMethod\Magnifier\bin\Debug\IALoader.dll
+F:\KinectInputMethod\Magnifier\bin\Debug\BLL.pdb
+F:\KinectInputMethod\Magnifier\bin\Debug\DAL.pdb
+F:\KinectInputMethod\Magnifier\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\KinectInputMethod\Magnifier\obj\x86\Debug\Magnifier.Properties.Resources.resources
+F:\KinectInputMethod\Magnifier\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\KinectInputMethod\Magnifier\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\KinectInputMethod\Magnifier\obj\x86\Debug\Magnifier.exe
+F:\KinectInputMethod\Magnifier\obj\x86\Debug\Magnifier.pdb
+F:\KinectInputMethod\Magnifier\bin\Debug\Models.dll
+F:\KinectInputMethod\Magnifier\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+F:\KinectInputMethod\Magnifier\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\bin\Debug\Magnifier.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\bin\Debug\Magnifier.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\obj\x86\Debug\Magnifier.Properties.Resources.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\obj\x86\Debug\Magnifier.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Magnifier\obj\x86\Debug\Magnifier.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\bin\Debug\Magnifier.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\bin\Debug\Magnifier.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\obj\x86\Debug\Magnifier.Properties.Resources.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\obj\x86\Debug\Magnifier.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Magnifier\obj\x86\Debug\Magnifier.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\bin\Debug\Magnifier.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\bin\Debug\Magnifier.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\bin\Debug\BLL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\bin\Debug\BLL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\obj\x86\Debug\Magnifier.Properties.Resources.resources
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\obj\x86\Debug\Magnifier.exe
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Magnifier\obj\x86\Debug\Magnifier.pdb

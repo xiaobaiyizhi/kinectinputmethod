@@ -1,0 +1,56 @@
+D:\C#\kinect\输入法三层架构\KinectInputMethod\Models\bin\Debug\Models.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\Models\bin\Debug\Models.pdb
+D:\C#\kinect\输入法三层架构\KinectInputMethod\Models\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\kinect\输入法三层架构\KinectInputMethod\Models\obj\Debug\Models.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\Models\obj\Debug\Models.pdb
+D:\C#\kinect\输入法三层架构\KinectInputMethod\Models\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\Models\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\Models\bin\Debug\TrackingHand.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\Models\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\Models\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\Models\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\Models\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\Models\bin\Debug\TrackingHand.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\Models\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\Models\obj\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\Models\obj\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\Models\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\Models\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\Models\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\Models\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\Models\bin\Debug\TrackingHand.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\Models\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\Models\obj\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\Models\obj\Debug\Models.pdb
+F:\KinectInputMethod\Models\bin\Debug\Models.dll
+F:\KinectInputMethod\Models\bin\Debug\Models.pdb
+F:\KinectInputMethod\Models\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+F:\KinectInputMethod\Models\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+F:\KinectInputMethod\Models\bin\Debug\TrackingHand.dll
+F:\KinectInputMethod\Models\obj\Debug\ResolveAssemblyReference.cache
+F:\KinectInputMethod\Models\obj\Debug\Models.dll
+F:\KinectInputMethod\Models\obj\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Models\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Models\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Models\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Models\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Models\bin\Debug\TrackingHand.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Models\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Models\obj\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\Models\obj\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Models\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Models\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Models\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Models\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Models\bin\Debug\TrackingHand.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Models\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Models\obj\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\Models\obj\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Models\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Models\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Models\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Models\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Models\bin\Debug\TrackingHand.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Models\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Models\obj\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\Models\obj\Debug\Models.pdb

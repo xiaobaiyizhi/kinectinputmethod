@@ -1,0 +1,94 @@
+D:\C#\kinect\输入法三层架构\KinectInputMethod\DAL\bin\Debug\DAL.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\DAL\bin\Debug\DAL.pdb
+D:\C#\kinect\输入法三层架构\KinectInputMethod\DAL\bin\Debug\Models.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\DAL\bin\Debug\Models.pdb
+D:\C#\kinect\输入法三层架构\KinectInputMethod\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\kinect\输入法三层架构\KinectInputMethod\DAL\obj\Debug\DAL.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\DAL\obj\Debug\DAL.pdb
+D:\C#\kinect\输入法三层架构\KinectInputMethod\DAL\bin\Debug\IACore.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\DAL\bin\Debug\IALoader.dll
+D:\C#\kinect\输入法三层架构\KinectInputMethod\DAL\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\DAL\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\DAL\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\DAL\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\DAL\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\DAL\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\DAL\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\DAL\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\DAL\obj\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\KinectInputMethod\DAL\obj\Debug\DAL.pdb
+E:\KinectInputMethod\KinectInputMethod\DAL\bin\Debug\DAL.dll
+E:\KinectInputMethod\KinectInputMethod\DAL\bin\Debug\DAL.pdb
+E:\KinectInputMethod\KinectInputMethod\DAL\bin\Debug\IACore.dll
+E:\KinectInputMethod\KinectInputMethod\DAL\bin\Debug\IALoader.dll
+E:\KinectInputMethod\KinectInputMethod\DAL\bin\Debug\IAWinFX.dll
+E:\KinectInputMethod\KinectInputMethod\DAL\bin\Debug\Models.dll
+E:\KinectInputMethod\KinectInputMethod\DAL\bin\Debug\Models.pdb
+E:\KinectInputMethod\KinectInputMethod\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\KinectInputMethod\KinectInputMethod\DAL\obj\Debug\DAL.dll
+E:\KinectInputMethod\KinectInputMethod\DAL\obj\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\DAL\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\DAL\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\DAL\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\DAL\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\DAL\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\DAL\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\DAL\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\DAL\obj\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(2)\KinectInputMethod\DAL\obj\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\DAL\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\DAL\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\DAL\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\DAL\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\DAL\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\DAL\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\DAL\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\DAL\obj\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod\DAL\obj\Debug\DAL.pdb
+F:\KinectInputMethod\DAL\bin\Debug\DAL.dll
+F:\KinectInputMethod\DAL\bin\Debug\DAL.pdb
+F:\KinectInputMethod\DAL\bin\Debug\IACore.dll
+F:\KinectInputMethod\DAL\bin\Debug\IALoader.dll
+F:\KinectInputMethod\DAL\bin\Debug\IAWinFX.dll
+F:\KinectInputMethod\DAL\bin\Debug\Models.dll
+F:\KinectInputMethod\DAL\bin\Debug\Models.pdb
+F:\KinectInputMethod\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\KinectInputMethod\DAL\obj\Debug\DAL.dll
+F:\KinectInputMethod\DAL\obj\Debug\DAL.pdb
+F:\KinectInputMethod\DAL\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\DAL\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\DAL\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\DAL\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\DAL\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\DAL\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\DAL\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\DAL\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\DAL\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\DAL\obj\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(输入法切换)\DAL\obj\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\DAL\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\DAL\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\DAL\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\DAL\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\DAL\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\DAL\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\DAL\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\DAL\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\DAL\obj\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(右划清除)\DAL\obj\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\DAL\bin\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\DAL\bin\Debug\DAL.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\DAL\bin\Debug\IACore.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\DAL\bin\Debug\IALoader.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\DAL\bin\Debug\IAWinFX.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\DAL\bin\Debug\Models.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\DAL\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\DAL\bin\Debug\Models.pdb
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\DAL\obj\Debug\DAL.dll
+C:\Users\dx\Documents\Tencent Files\458376674\FileRecv\KinectInputMethod(界面优化and线程优化)\DAL\obj\Debug\DAL.pdb
